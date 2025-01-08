@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Header() {
   return (
     <nav className="flex flex-row justify-between py-4">
-      <Link href="/" className="text-xl font-bold tracking-wider">
+      <Link href="/" className="text-3xl font-bold tracking-wider">
         NC.
       </Link>
       <ul className="flex flex-row gap-12">

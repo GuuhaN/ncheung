@@ -1,3 +1,4 @@
+import { League_Spartan } from "next/font/google";
 import type { Config } from "tailwindcss";
 
 export default {
@@ -15,6 +16,9 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      league_spartan: ['var(--font-league-spartan)']
+    }
   },
   plugins: [],
 } satisfies Config;
