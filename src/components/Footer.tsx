@@ -7,10 +7,10 @@ export default function Footer() {
       <div className="flex flex-col gap-6 basis-2/4">
         <h2 className="text-6xl font-bold">NC.</h2>
         <div className="flex flex-col gap-4">
-          <h3 className="text-5xl font-semibold">LET'S TALK</h3>
+          <h3 className="text-5xl font-semibold">LETS TALK</h3>
           <p className="text-xl">
             If you need assistance with your portfolio, feel free to reach out
-            to me and let's have a chat
+            to me and lets have a chat
           </p>
           <input placeholder="Email" />
         </div>
